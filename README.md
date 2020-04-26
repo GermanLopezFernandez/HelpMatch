@@ -7,7 +7,8 @@
 
 ## Technologies :artificial_satellite:
 - [ReactJS](https://reactjs.org/)
-- [React Native](https://facebook.github.io/react-native/)
+- [Firebase](https://firebase.google.com/)
+- [NPM](https://www.npmjs.com/)
 - [Material UI](https://material-ui.com/)
 - [Redux](https://redux.js.org/)
 - [Axios](https://github.com/axios/axios)
