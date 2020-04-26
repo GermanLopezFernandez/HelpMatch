@@ -4,6 +4,8 @@
   Web App project for "CodeTheCurve: Youth innovators hacking their way to surmount COVID-19 challenges" Hackaton in 2020
 </h3>
 
+## Goal :building_construction:
+There are people who want to help and then there are people who need help. This Wep App is a dedicated space for matching those who need help with those who want to help.
 
 ## Technologies :artificial_satellite:
 - [ReactJS](https://reactjs.org/)
