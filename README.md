@@ -14,9 +14,12 @@
 - [VS Code](https://code.visualstudio.com/) 
 
 
-## URL :link:
+## URL to Web App :link:
 [HelpMatch](https://helpmatch-e84e2.web.app/)
 
+
+## Important :warning:
+When trying to replicate the proyect, it's important to install all the node modules required for the proyect.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
