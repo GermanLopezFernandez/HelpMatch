@@ -23,7 +23,7 @@ There are people who want to help and then there are people who need help. This 
 
 
 ## Important :warning:
-When trying to replicate the proyect, it's important to install all the node modules required.
+When trying to replicate the project, it's important to install all the node modules required.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
